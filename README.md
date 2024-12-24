@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I'm a Graduate Research Assistant at Case Western Reserve University and a Software Engineer at Ionic Health. I am also currently pursuing MS in Computer Science and have experience designing and developing software solutions. I'm passionate about leveraging technology to solve complex challenges and make a positive impact.<br><br>🔍 Currently exploring: Parallel Programming and Designing High Performance Systems for Artificial Intelligence.<br><br>🌱 Learning: The latest advancements in computational methods.<br><br>💬 Ask me about: Big data, software development, FullStack Development, Mern Stack Development, Parallel Programming.</p>
+<p align="left">📢 I'm a Graduate Research Assistant at Case Western Reserve University and a Software Engineer at Ionic Health. <br><br> 🎓I am also currently pursuing MS in Computer Science and have experience designing and developing software solutions. I'm passionate about leveraging technology to solve complex challenges and make a positive impact.<br><br>🔍 Currently exploring: Parallel Programming and Designing High Performance Systems for Artificial Intelligence.<br><br>🌱 Learning: The latest advancements in computational methods.<br><br>💬 Ask me about: Big data, software development, FullStack Development, Mern Stack Development, Parallel Programming.</p>
 
 ###
 
-<p align="left">Reach out to me:</p>
+<p align="left">☎️ Reach out to me:</p>
 
 ###
 
