@@ -30,7 +30,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhara17&show_icons=true&locale=en" alt="shikhara17" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhara17&" alt="shikhara17" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhara17&show_icons=true&locale=en&layout=compact" alt="shikhara17" /></p> 
 
 <br><br>
