@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="left">Hi 👋! I'm Shikhara Pagadala!</h2>
 
 ###
