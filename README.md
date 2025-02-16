@@ -29,7 +29,7 @@
 # 📊 GitHub Stats:
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhara17&show_icons=true&locale=en" alt="shikhara17" /></p>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">    <img  alt="Shikhara17's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Shikhara17?cardType=level&theme=dark&preferLogin=false" />  </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhara17&show_icons=true&locale=en&layout=compact" alt="shikhara17" /></p> 
 
